@@ -2,19 +2,19 @@
 An implementation of ACI API functionality to query HPE IDOL services.
 This library is also able to extract entities from text using IDOL Eduction server.
 
-SETUP
+# SETUP
 Edit idol/config.py to match your installation.
 
-USAGE
+# USAGE
 pyaci_example.py shows some usage
 Responses are returned as ElementTree as described at https://docs.python.org/2/library/xml.etree.elementtree.html
 
-FEEDBACK
+# FEEDBACK
 Please submit bugs and features via GitHub project page.
 
 This code is derived from aci2csv at 
 Original README:
-# aci2csv
+aci2csv
 idol aci 2 csv in python
 
 this is demo code, please use with care
